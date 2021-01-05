@@ -8,7 +8,7 @@
 
 - 🎓 Graduating in Information Systems at UNIDESC
 - 🔧 Always looking to learn new technologies;
-- 📫 Reach me with leandrojoapi@gmail.com;
+- 📫 Reach me out with leandrojoapi@gmail.com;
 - 🇧🇷 Live in Brazil
 
 ---
