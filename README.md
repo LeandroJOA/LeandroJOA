@@ -9,7 +9,7 @@
 - 🎓 Graduating in Information Systems at UNIDESC
 - 🔧 Always looking to learn new technologies
 - 📫 Reach me out with leandrojoapi@gmail.com
-- 🇧🇷 Live in Brazil
+- 🇧🇷  Live in Brazil
 
 ---
 
