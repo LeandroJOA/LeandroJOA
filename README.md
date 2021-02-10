@@ -14,13 +14,13 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/jadilson12/github-readme-stats">
+  <a href="https://github.com/LeandroJOA/github-readme-stats">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroJOA&layout=compact&theme=dracula"
     />
   </a>
-  <a href="https://github.com/jadilson12/github-readme-stats">
+  <a href="https://github.com/LeandroJOA/github-readme-stats">
     <img
       align="center"
       height="165"
